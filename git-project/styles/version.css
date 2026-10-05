@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    height: 100vh;
+}
+
+body{
+    background-color: aliceblue;
+    height: 100%;
+    margin: 0;
+}
+
+.header{
+    background-color: brown;
+    padding: 24px;
+}
+
+.header-title{
+    background-color: brown;
+     padding: 24px;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
