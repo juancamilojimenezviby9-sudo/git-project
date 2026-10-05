@@ -24,3 +24,8 @@ body{
     font-size: 3rem;
     text-align: center;
 }
+
+.main{
+    color: rgb(240, 240, 242);
+    background-color: blueviolet;
+}
